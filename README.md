@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cathy286" alt="cathy286" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🔭 I’m currently working on **Student**
 
 - 🌱 I’m currently learning **C,C++,Java,Graphics,Photoshop.**
@@ -29,11 +31,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cathy286&show_icons=true&locale=en&layout=compact" alt="cathy286" /></p>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cathy286&show_icons=true&locale=en" alt="cathy286" /></p>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cathy286&" alt="cathy286" /></p>
